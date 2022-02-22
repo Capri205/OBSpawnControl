@@ -1,0 +1,9 @@
+# Add worlds and the desired spawn location X, Y, Z coordinates (comma separated) to the
+# spawnpoints element preceeded by two spaces. E.g, to add a spawn point for the nether:
+# spawnpoints:
+#   world_nether: 0.5,-50.0,0.5
+# If you want pitch and yaw add those following the X, Y and Z coordiates:
+#   world_nether: 0.5,-50.0,0.5,-90.0,0.0
+# Remember to indent the world spawns with a space or two
+
+spawnpoints:

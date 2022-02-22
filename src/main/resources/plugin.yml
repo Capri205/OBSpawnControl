@@ -1,0 +1,13 @@
+name: OBSpawnControl
+version: 1.0
+description: Spawn management for a lobby or server
+author: Fahrenheit451
+api-version: 1.18
+website: https://ob-mc.net
+main: net.obmc.OBSpawnControl.OBSpawnControl
+depend: []
+commands:
+  obspawn:
+    description: Main command for setting a spawn for a world
+    usage: Use /obspawn for usage
+    aliases: obs
