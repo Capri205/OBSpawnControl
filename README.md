@@ -11,4 +11,4 @@ Commands:
 /obs setspawn to set the spawn at the player location for the world they are in
 /obs delspawn to remove spawn and resume normal Minecraft spawning for the world the player is in
 
-Compiled for 1.19 with Java 17.
+Compiled for 1.20 with Java 17.

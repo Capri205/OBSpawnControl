@@ -2,7 +2,7 @@ name: OBSpawnControl
 version: 1.0
 description: Spawn management for a lobby or server
 author: Fahrenheit451
-api-version: 1.19
+api-version: 1.20
 website: https://ob-mc.net
 main: net.obmc.OBSpawnControl.OBSpawnControl
 depend: []
