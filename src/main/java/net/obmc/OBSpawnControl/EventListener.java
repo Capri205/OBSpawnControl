@@ -1,6 +1,5 @@
 package net.obmc.OBSpawnControl;
 
-import java.util.logging.Level;
 import java.util.logging.Logger;
 
 import org.bukkit.entity.Player;

@@ -1,11 +1,10 @@
-name: OBSpawnControl
-version: 1.0
-description: Spawn management for a lobby or server
-author: Fahrenheit451
-api-version: "1.21"
-website: https://ob-mc.net
-main: net.obmc.OBSpawnControl.OBSpawnControl
-depend: []
+name: ${project.name}
+description: ${project.description}
+author: Fahrenheit451|Capri205
+website: ${project.url}
+version: ${project.version}
+api-version: ${api-version}
+main: net.obmc.${project.name}.${project.name}
 commands:
   obspawn:
     description: Main command for setting a spawn for a world
